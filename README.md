@@ -10,10 +10,10 @@
 
 Example:  
 
-<p>path : "C:xxx\xxx\xxx" <\p>    
-<p>filename : "one.docx"<\p>
-<p>who : "ID"<\p>
-<p>save as : "two.docx"<\p>
+<p>path : "C:xxx\xxx\xxx" </p>    
+<p>filename : "one.docx"</p>
+<p>who : "ID"</p>
+<p>save as : "two.docx"</p>
 
 
 _No More Explanation_   
